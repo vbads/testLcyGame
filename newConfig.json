@@ -1,0 +1,10 @@
+{
+    "config": {
+        "version": "2025090502",
+        "dev": {
+            "httpServer": "http://test-api.test.com/test",
+            "httpGameServer": "http://test-gapi.test.com/test_game",
+            "httpH5Server": "http://test-h5.test.com/assets"
+        }
+    }
+}
