@@ -15,6 +15,6 @@
             "httpServer": "https://api.wiagame.com/gateway",
             "httpGameServer": "https://gapi.wiagame.com/entry_game",
             "httpH5Server": "https://h5.wiagame.com/assets"
-        },
+        }
     }
 }
