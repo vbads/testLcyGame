@@ -1,6 +1,5 @@
 {
     "config": {
-        "version": "2025090502",
          "dev": {
             "httpServer": "http://test-api.zippyteen.com/gateway",
             "httpGameServer": "http://test-gapi.zippyteen.com/entry_game",
